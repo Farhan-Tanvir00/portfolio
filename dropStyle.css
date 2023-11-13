@@ -294,9 +294,9 @@ button:hover{
     }
 
     .project{
-        background-color: #FFDAB9;
+        background-color: #8fd7c7;
         border-radius: 20px;
-        height: 850px;
+        height: 900px;
         margin-top: 10px;
         margin-bottom: 10px;
         display:flex;
@@ -320,7 +320,7 @@ button:hover{
 
 @media (max-width:1375px) {
     .project{
-        background-color: #FFDAB9;
+        background-color: #8fd7c7;
         border-radius: 20px;
         height: 850px;
         margin-bottom: 50px;
@@ -362,7 +362,7 @@ button:hover{
 
 @media (max-width:1080px) {
     .others{
-        height: 800px;
+        height: 850px;
         border-radius: 20px;
         background-color: lightblue;
         display: flex;       
